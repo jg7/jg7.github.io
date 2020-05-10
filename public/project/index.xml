@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Jatin Gupta</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>jg7.github.io/project/</link>
+      <atom:link href="jg7.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Jatin Gupta</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/jg7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>jg7.github.io/project/</link>
     </image>
     
     <item>
       <title>Drought Prediction</title>
-      <link>/project/project/</link>
+      <link>jg7.github.io/project/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/project/</guid>
+      <guid>jg7.github.io/project/project/</guid>
       <description>&lt;p&gt;The random and nonlinear nature of drought variables makes accurate drought prediction a challenging
 scientific problem. The project builds a digital tool and a Machine Learning model to predict the water
 scarcity in an area and compare the results of several classifiers to get the best accuracy of the prediction.
@@ -27,9 +27,9 @@ regression classifiers and obtaining the accuracy.&lt;/p&gt;
     
     <item>
       <title>Hand Emoji Recognition and Generator</title>
-      <link>/project/project1/</link>
+      <link>jg7.github.io/project/project1/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/project1/</guid>
+      <guid>jg7.github.io/project/project1/</guid>
       <description>&lt;p&gt;This project consists of a hand gesture recognition method and emoji generator using TensorFlow
 object detection API for training, filters to detect hand and Convolutional Neural Network (CNN) for
 training the model. Here, a database is being created of hand gestures in order to train the system.
@@ -40,9 +40,9 @@ training for various positions of the hand movement.&lt;/p&gt;
     
     <item>
       <title>Sentimental Analysis of Tweets</title>
-      <link>/project/internal-project/</link>
+      <link>jg7.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>jg7.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;The project aims to analyze customer’s perspectives toward the critical to success in the marketplace. The program is using a machine-based learning approach which is more accurate for analyzing a sentiment, ogether with natural language processing techniques will be used. As a result, the program will be categorized sentiment into positive and negative.&lt;/p&gt;
 </description>
     </item>
